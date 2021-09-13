@@ -1,0 +1,14 @@
+# For Mobile Legends
+#
+# Author: John Cyrill Corsanes
+# Date: 2021-09-13
+# Based on manual monitoring on my DNS server
+#
+
+||akmcdn.ml.youngjoygame.com^
+||newlogin.ml.youngjoygame.com^
+||ip.ml.youngjoygame.com^
+||ml.youngjoygame.com^
+||youngjoygame.com^
+||alxdlml.yuanzhanapp.com^
+
