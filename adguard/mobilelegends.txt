@@ -1,7 +1,7 @@
 # For Mobile Legends
 #
 # Author: John Cyrill Corsanes
-# Date: 2021-09-13
+# Updated Date: 2021-09-30
 # Based on manual monitoring on my DNS server
 #
 
@@ -11,6 +11,14 @@
 ||ip.ml.youngjoygame.com^
 ||ml.youngjoygame.com^
 ||youngjoygame.com^
+||www.youngjoygame.com^
+||www.mobilelegends.com^
+||m.mobilelegends.com^
 ||alxdlml.yuanzhanapp.com^
 ||ml.cs30.net^
+||ml.aihelp.net^
+||www.aihelp.net^
+||newlogin.ml.mlbangbang.com^
+||www.mlbangbang.com^
+||ml.bangbang.com^
 
