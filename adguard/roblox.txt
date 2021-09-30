@@ -1,0 +1,13 @@
+# For Roblox
+#
+# Author: John Cyrill Corsanes
+# Date: 2021-09-30
+# Based on manual monitoring on my DNS server
+#
+
+||www.roblox.com^
+||www.rbxcdn.com^
+||roblox.com^
+||rbxcdn.com^
+||t3.rbxcdn.com^
+||static.rbxcdn.com^
